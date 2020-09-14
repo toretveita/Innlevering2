@@ -3,7 +3,7 @@
 Denne oppbevaringsplasssen inneholder startkode og enhetstester for den obligatoriske innlevering av de to oppgave fra Java programmeringslab 5 og 6:
 
 - JPLab 5: Oppgave 6 (https://github.com/dat100hib/dat100public/blob/master/programmering/jplab5/JP5.md#oppgave-6---tabeller-og-metoder-del-av-obligatorisk-innlevering)
-- JPLab 6: Oppgave 3 (https://github.com/dat100hib/dat100public/blob/master/programmering/jplab5/JP5.md#oppgave-6---tabeller-og-metoder-del-av-obligatorisk-innlevering)
+- JPLab 6: Oppgave 3 (https://github.com/dat100hib/dat100public/blob/master/programmering/jplab6/JP6.md#oppgave-3---matriser-del-av-obligatorisk-innlevering)
 
 ### Tilgang og importering av startkoden
 
